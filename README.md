@@ -55,9 +55,8 @@ Password: abc@123
 OR sign up with your own details!!
 
 
-# However the hosting link is also provided but the payment requires a Production test key api so when you click on payment it will again redirect back indicating the message you are not logged in 
+**However the hosting link is also provided but the payment requires a Production test key api so when you click on payment it will again redirect back indicating the message you are not logged in**
 Hosting Link:  https://flightticketbookingprograd.000webhostapp.com/
 
 And Note:
-
-# Like the Demo video you cannot download the pdfs here.
+**Like the Demo video you cannot download the pdfs here.**
