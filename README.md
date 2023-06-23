@@ -1,6 +1,10 @@
 # FlightTicketBooking
 
-Here Provided the zip where you can directly download all the files at a time.
+Here Provided the zip file where you can directly download all the files at a time.
+
+**However the link to download the zip file is : https://github.com/MUPPALA-SAI-SHASHANK/FlightTicketBooking/blob/main/plane.zip**
+
+And the click on view raw to download all the folders.
 
 After you finish downloading the project, unzip the project file and head over to your XAMPP directory.
 
