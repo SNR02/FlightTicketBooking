@@ -1,42 +1,44 @@
 # FlightTicketBooking
 
-Here Provided the zip file where you can directly download all the files at a time.
+- Here Provided the zip file where you can directly download all the files at a time.
 
-**However the link to download the zip file is : https://github.com/MUPPALA-SAI-SHASHANK/FlightTicketBooking/blob/main/plane.zip**
+- **However the link to download the zip file is : <a href="https://github.com/MUPPALA-SAI-SHASHANK/FlightTicketBooking/blob/main/plane.zip">Zip File</a>**
 
-And the click on view raw to download all the folders.
+- And then click on view raw to download all the folders.
 
-After you finish downloading the project, unzip the project file and head over to your XAMPP directory.
+- After you finish downloading the project, unzip the project file and head over to your XAMPP directory.
 
-There you’ll find a folder naming “htdocs”.
+- There you’ll find a folder naming “htdocs”.
 
-Inside the “htdocs” folder, paste the project folder (not the .zip one, but the extracted one).
+- Inside the “htdocs” folder, paste the project folder (not the .zip one, but the extracted one).
 
-Open your favorite browser; we recommend using Google Chrome or Mozilla Firefox.
+- Open your favorite browser.
 
-Then, go to URL “http://localhost/phpmyadmin“.
+- Then, go to URL “http://localhost/phpmyadmin“.
 
-Create a Database with a name that is provided inside the “01 LOGIN DETAILS & PROJECT INFO.txt”.
+- Create a Database with a name that is provided inside the “01 LOGIN DETAILS & PROJECT INFO.txt”.
 
-Finally, click on the “Import” tab and choose the database file (.sql) which is provided under the folder naming “DATABASE FILE”.
+- Finally, click on the “Import” tab and choose the database file (.sql) which is provided under the folder naming “DATABASE FILE”.
 
-After setting up all these, go to URL “http://localhost/[ PROJECT_FOLDER_NAME ]/“
+- After setting up all these, go to URL “http://localhost/[ PROJECT_FOLDER_NAME ]/“
 
-All the login details are provided inside the project folder, check that out and enter in order to use it.
+- All the login details are provided inside the project folder, check that out and enter in order to use it.
 
-Here is a demo video where you can see the demo of how it works
+<br><br>
 
-https://github.com/MUPPALA-SAI-SHASHANK/FlightTicketBooking/blob/main/Untitled.mp4
+# Here is a demo video where you can see the demo of how it works
+<br>
 
-By clicking the above link and then click on view raw
+<a href="https://github.com/MUPPALA-SAI-SHASHANK/FlightTicketBooking/blob/main/Untitled.mp4">Demo Video</a>
 
-So a demo video will be downloaded and you can have a reference
+- Visit this link and click raw to view the demo video file. 
 
-**Log on to codeastro.com for more projects!***
+- So a demo video will be downloaded and you can have a reference
 
-**Database Name: otrsphp**
+<br><br>
 
-**Developed by Adelabu Oluwatoyin Simbiat**
+
+**Database Name:** otrsphp
 
 **Recommended PHP Version 7**
 
@@ -64,8 +66,9 @@ Hosting Link:  https://flightticketbookingprograd.000webhostapp.com/
 
 And Note:
 **Like the Demo video you cannot download the pdfs here.**
+<br><br>
 
-Here are some of the screenshots:
+# Here are some of the screenshots:
 
 ![image](https://github.com/MUPPALA-SAI-SHASHANK/FlightTicketBooking/assets/108987073/ccdd99a9-c8db-419b-9c35-5bf4ef1476fa)
 
